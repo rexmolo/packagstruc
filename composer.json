@@ -1,0 +1,12 @@
+{
+    "name": "rexmolo/packstruc",
+    "description": "This is php package structure",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rexmolo",
+            "email": "lqdian@gmail.com"
+        }
+    ],
+    "require": {}
+}
